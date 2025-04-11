@@ -1,4 +1,6 @@
 # Advanced Deep Learning with TensorFlow and Keras
+[![Video Walkthrough Playlist](https://img.shields.io/badge/Video%20Walkthrough-Playlist-blue?style=flat-square&logo=youtube&logoColor=white)](youtube.com)
+
 
 This repository contains a series of Colaboratory notebooks demonstrating a comprehensive range of advanced deep learning concepts using TensorFlow and Keras. 
 - **Part 1** focuses on enhancing model generalization through various data augmentation techniques (often with A/B testing for comparison) and regularization methods implemented in TensorFlow, including L1/L2 regularization, dropout, early stopping, Monte Carlo dropout, diverse weight initialization strategies, batch normalization, custom dropout and regularization, the use of callbacks and TensorBoard for training management, hyperparameter tuning with Keras Tuner, leveraging KerasCV for image augmentation, exploring data augmentation for diverse data modalities (image, video, text, time series, tabular, speech, document images), and showcasing the data augmentation capabilities of the Fastai library.
@@ -178,3 +180,5 @@ I did all the parts of part 2 in a single colab. This notebook demonstrates vari
 **Description:** Writes a custom training loop for more control over the training process. (Reference: [Hands-On ML3 - Section 13 for Fashion MNIST](https://github.com/ageron/handson-ml3/blob/main/13_custom_models_and_training_with_tensorflow.ipynb))
 
 **Execution in Colab:** Run the custom training loop and observe the step-by-step training process, including loss calculation, gradient application, and metric tracking. Compare the results to training with the `fit()` method.
+
+
