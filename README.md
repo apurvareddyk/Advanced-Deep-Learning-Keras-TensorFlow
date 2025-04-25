@@ -1,5 +1,5 @@
 # Advanced Deep Learning with TensorFlow and Keras
-[![Video Walkthrough Playlist](https://img.shields.io/badge/Video%20Walkthrough-Playlist-blue?style=flat-square&logo=youtube&logoColor=white)](youtube.com)
+[![Video Walkthrough Playlist](https://img.shields.io/badge/Video%20Walkthrough-Playlist-blue?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLGHkLcp2I_S8TDg0djqQCNhkFb6kCl81W)
 
 
 This repository contains a series of Colaboratory notebooks demonstrating a comprehensive range of advanced deep learning concepts using TensorFlow and Keras. 
